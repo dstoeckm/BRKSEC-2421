@@ -22,7 +22,7 @@ This file defines the ingress rule set applied to the ingress gateway
 
 This file includes the definition for the provider
 
-**RAEDME.md**
+**README.md**
 
 this file
 
