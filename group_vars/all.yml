@@ -1,0 +1,8 @@
+---
+DB_PASSWORD: "DusLab123!"
+my_db_user: "my_db_user"
+DB_PORT: "3306"
+DB_DATABASE: "opencart"
+IngressGW: "ciscomcd-l-ingrnwrgqmbu-abece88b407e4101.elb.eu-central-1.amazonaws.com"
+
+## "brksec-1773.dus.ciscolabs.com"
